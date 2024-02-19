@@ -1,0 +1,17 @@
+98  mkdir 1111
+   99  cd 1111
+  100  git clone https://github.com/sree1131/gitversion.git
+  101  ls
+  102  cd gitversion
+  103  ls
+  104  cat README.md
+  105  touch vattakaya2.py
+  106  git init
+  107  git status
+  108  git add vattakay2.py
+  109  git add vattakaya2.py
+  110  git commit -m "git added vattakaya2.py"
+  111  git remote set-url origin https://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@github.com/sree1131/gitversion
+  112  git push origin main
+  113  history
+[root@ip-172-31-85-221 gitversion] 
